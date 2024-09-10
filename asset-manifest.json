@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SocialMedia123/static/css/main.e8821996.css",
+    "main.js": "/SocialMedia123/static/js/main.22997ba6.js",
+    "static/js/453.64be9eb2.chunk.js": "/SocialMedia123/static/js/453.64be9eb2.chunk.js",
+    "static/media/login-bg.jpg": "/SocialMedia123/static/media/login-bg.bbb5193926fde38311b2.jpg",
+    "static/media/Slider3.jpg": "/SocialMedia123/static/media/Slider3.24d54f086b3b2694bdbf.jpg",
+    "static/media/Slider6.jpg": "/SocialMedia123/static/media/Slider6.2f798c49fe3215154521.jpg",
+    "static/media/headerbg3.jpg": "/SocialMedia123/static/media/headerbg3.3ef04419b850e5aa2fd3.jpg",
+    "static/media/Slider5.jpg": "/SocialMedia123/static/media/Slider5.f5c32970635d69dca671.jpg",
+    "static/media/Slider4.jpg": "/SocialMedia123/static/media/Slider4.361b24d5eb6702dc37a6.jpg",
+    "static/media/NavUser.jpg": "/SocialMedia123/static/media/NavUser.e9f99819f026a191a806.jpg",
+    "static/media/Slider2.jpg": "/SocialMedia123/static/media/Slider2.5bbb70390b16c6f3093e.jpg",
+    "static/media/Logo.png": "/SocialMedia123/static/media/Logo.18c88550eb9380af82d5.png",
+    "index.html": "/SocialMedia123/index.html",
+    "main.e8821996.css.map": "/SocialMedia123/static/css/main.e8821996.css.map",
+    "main.22997ba6.js.map": "/SocialMedia123/static/js/main.22997ba6.js.map",
+    "453.64be9eb2.chunk.js.map": "/SocialMedia123/static/js/453.64be9eb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8821996.css",
+    "static/js/main.22997ba6.js"
+  ]
+}
